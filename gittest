@@ -1,0 +1,14 @@
+a='abhishek'
+if a=='abhishek'
+puts "hey buddy"
+end
+if a!='abhishek'
+puts "sorry it not me :) "
+else
+puts "hey buddy"
+end
+if a!='prasanga'
+puts 'hi'
+elseif a=='abhishek'
+puts 'hello'
+end
